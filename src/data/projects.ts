@@ -33,13 +33,13 @@ export interface Project {
 export const projects: Project[] = [
   {
     slug: "ayodhya-puram",
-    name: "Shree Ayodhya Puram",
+    name: "Shri Ayodhya Puram",
     location: "Indore, Madhya Pradesh",
     status: "Open for booking",
     shortDescription:
       "A RERA-approved plotted colony with a landmark entrance gate, vastu-based planning and ready internal infrastructure.",
     overview: [
-      "Shree Ayodhya Puram is a planned residential plotted colony developed with a landmark entrance gate, wide internal roads and organised sector planning.",
+      "Shri Ayodhya Puram is a planned residential plotted colony developed with a landmark entrance gate, wide internal roads and organised sector planning.",
       "The layout is planned as per vastu, with underground drainage, a boundary wall, a water tank and dedicated garden areas within the colony. Plot options range across multiple sizes so families can choose what fits their plan and budget.",
       "As per the company brochure, remaining plots are available. Please confirm current availability with our team before planning a visit.",
     ],
@@ -71,20 +71,20 @@ export const projects: Project[] = [
     ],
     hero: {
       src: "/images/projects/ayodhya-puram/hero.webp",
-      alt: "Shree Ayodhya Puram entrance gate at the plotted colony in Indore",
+      alt: "Shri Ayodhya Puram entrance gate at the plotted colony in Indore",
     },
     gallery: [
       {
         src: "/images/projects/ayodhya-puram/gallery-01-site-plan.webp",
-        alt: "Shree Ayodhya Puram site plan showing plot numbers, sizes, gardens and 12 metre internal roads",
+        alt: "Shri Ayodhya Puram site plan showing plot numbers, sizes, gardens and 12 metre internal roads",
       },
       {
         src: "/images/projects/ayodhya-puram/gallery-02-location-map.webp",
-        alt: "Location map of Shree Ayodhya Puram showing connectivity to Outer Ring Road and Indore–Ujjain Highway",
+        alt: "Location map of Shri Ayodhya Puram showing connectivity to Outer Ring Road and Indore–Ujjain Highway",
       },
       {
         src: "/images/projects/ayodhya-puram/gallery-03-layout.webp",
-        alt: "Shree Ayodhya Puram colony layout with plot sizes of 800, 1000, 1200 and 1500 square feet",
+        alt: "Shri Ayodhya Puram colony layout with plot sizes of 800, 1000, 1200 and 1500 square feet",
       },
     ],
     mapEmbedUrl: "",
