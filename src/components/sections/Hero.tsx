@@ -28,9 +28,7 @@ export function Hero() {
 
       <Container className="relative py-24 sm:py-32 lg:py-40">
         <div className="max-w-2xl">
-          <p className="eyebrow text-cyan">
-            {site.city}, {site.state} · {site.tagline}
-          </p>
+          
           <h1 className="mt-5 text-balance text-4xl leading-[1.05] font-semibold text-primary-foreground sm:text-5xl lg:text-6xl">
             Land in Indore you can build a generation on
           </h1>
@@ -38,6 +36,10 @@ export function Hero() {
             Akshat Reality develops and sells residential and commercial plots across Indore,
             and builds houses on them — with clear paperwork, honest pricing and one team
             accountable from site visit to possession.
+          </p>
+          <>br</>
+          <p className="eyebrow text-cyan">
+            {site.city}, {site.state}
           </p>
 
           <div className="mt-9 flex flex-col gap-3 sm:flex-row">

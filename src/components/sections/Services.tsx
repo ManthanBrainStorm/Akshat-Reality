@@ -12,7 +12,7 @@ export function Services() {
       <Container>
         <SectionHeading
           eyebrow="What we do"
-          title="Two services, one accountable team"
+          title="Many services, one accountable team"
           intro="Whether you are buying your first plot or building on land you already own, the same team stays with you from the first conversation to handover."
         />
 

@@ -35,7 +35,7 @@ export const site = {
   },
 
   /** PENDING CLIENT CONFIRMATION — replace with confirmed business hours. */
-  businessHours: "Monday – Saturday, 10:00 AM – 7:00 PM (to be confirmed)",
+  businessHours: "Monday – Saturday, 10:30 AM – 7:00 PM (Thursdays are closed)",
 
   /**
    * PENDING CLIENT CONFIRMATION — add real profile URLs.
@@ -57,8 +57,9 @@ export const site = {
    *     (starts with https://www.google.com/maps/embed?pb=...) and paste it
    *     below as a plain string.
    */
-  mapEmbedUrl: "",
-
+ mapEmbedUrl:
+  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3679.3020094145886!2d75.8768007757302!3d22.754170726290333!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39630304f54e258b%3A0x89a058ec16773792!2sAkshat%20Reality!5e0!3m2!1sen!2sin!4v1786870231450!5m2!1sen!2sin",
+  
   images: {
     logo: "/images/brand/logo.png",
     hero: "/images/hero/hero-main.webp",
